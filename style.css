@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+header{
+    background-color: rgb(46, 81, 240);
+    color: white;
+    height: 6em;
+
+}
+
+header h1{
+    font-size: 34px;
+    text-align:center;
+    font-family:sans-serif;
+}
